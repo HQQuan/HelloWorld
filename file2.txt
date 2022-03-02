@@ -1,3 +1,5 @@
 file2
 file2
 file2
+Tạo conflict 1
+Tạo conflict 2
