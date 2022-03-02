@@ -1,5 +1,7 @@
 file2
 file2
 file2
-Tạo conflict 3
-Tạo conflict 4
+Sửa chữa conflict
+Sửa chữa conflict
+Sửa chữa conflict
+Sửa chữa conflict
